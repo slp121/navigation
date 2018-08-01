@@ -1,0 +1,1 @@
+function lwlhitokoto(){document.write("他没有错，只是不爱我。 ——原来你还在这里");}
